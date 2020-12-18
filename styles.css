@@ -136,3 +136,11 @@ line-height: 20px;
 letter-spacing: 1px;
 
 }
+.box.content  h2 span{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 200;
+    line-height: 20px;
+    letter-spacing: 2   px;
+    
+    }
