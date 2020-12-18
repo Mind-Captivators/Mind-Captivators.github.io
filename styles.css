@@ -53,6 +53,7 @@ body{
     right: -2px;
     bottom: -2px;
     background: #fff;
+    z-index: -1;
 }
 .box::after {
     content:'';
@@ -62,4 +63,5 @@ body{
     right: -2px;
     bottom: -2px;
     background: #fff;
+    z-index: -2;
 }
