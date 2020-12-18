@@ -43,5 +43,5 @@ body{
     transition: 0.5s;
 }
 .box:hover .imgBx img{
-    
+    opacity: 1;
 }
