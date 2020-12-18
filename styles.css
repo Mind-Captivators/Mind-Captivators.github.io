@@ -12,4 +12,5 @@ body{
     align-items: center;
     flex-wrap: wrap;
     min-width: 100vh;
+    background: #010615;
 }
