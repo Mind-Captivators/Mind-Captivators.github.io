@@ -47,5 +47,19 @@ body{
 }
 .box::before {
     content:'';
-    
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: #fff;
+}
+.box::after {
+    content:'';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: #fff;
 }
