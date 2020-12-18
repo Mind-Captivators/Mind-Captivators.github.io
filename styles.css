@@ -64,4 +64,7 @@ body{
     bottom: -2px;
     background: #fff;
     z-index: -2;
+    filter:blur(40px);
 }
+.box::before,
+.box::after
