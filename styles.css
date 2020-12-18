@@ -45,3 +45,7 @@ body{
 .box:hover .imgBx img{
     opacity: 1;
 }
+.box::before {
+    content:'';
+    
+}
