@@ -125,5 +125,11 @@ body{
 }
 
 .box:hover .content{
-    
+    opacity: 1;
+}
+.box.content  h2{
+font-size: 20px;
+color: #fff;
+font-weight: 500;
+
 }
