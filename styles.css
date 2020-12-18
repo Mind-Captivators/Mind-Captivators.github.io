@@ -24,6 +24,10 @@ body{
     margin: 40px;
     transition: 0.5s;
 }
+.box:hover{
+    height: 400px;
+}
+
 .box .imgBx{
     position: absolute;
     top: 0;
